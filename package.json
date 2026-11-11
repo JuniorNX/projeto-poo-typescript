@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Projeto academico de POO em typescript",
+  "keywords": [
+    "POO",
+    "academico",
+    "typescript"
+  ],
+  "license": "ISC",
+  "author": "Deivton Junior",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "sucrase": "^3.35.1",
+    "typescript": "^7.0.2"
+  }
+}
